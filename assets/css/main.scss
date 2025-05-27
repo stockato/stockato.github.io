@@ -42,4 +42,6 @@ $content-width: {{ site.content_width | default: '920px' }};
     font-style: normal;
 }
 
+.theme-toggle { display: none}
+
 @import "yat";
